@@ -102,7 +102,7 @@ tmp/"EMPRESA"/      -   Diretório com arquivos temporários relacionados ao úl
 
 Nosso script utiliza as seguintes **tags**:
 
-![IMG TABELA](/img/pop.PNG)
+![IMG TABELA](/img/pop.png)
 
 **OBS:** É de altissima importância incluir a tag pidxxx nas probes do cliente, caso contrário, a indexação não funcionará.
 
